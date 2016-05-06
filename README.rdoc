@@ -9,6 +9,11 @@ Things you may want to cover:
 
 * System dependencies
 
+Bundle Install
+rake db:migrate
+run -> bundle exec rails s
+bundle exec sidekiq // for web and dashboard motnitoring
+
 * Configuration
 
 * Database creation

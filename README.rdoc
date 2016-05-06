@@ -5,28 +5,18 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
 
 * System dependencies
 
 Bundle Install
+
 rake db:migrate
+
 run -> bundle exec rails s
-bundle exec sidekiq // for web and dashboard motnitoring
 
-* Configuration
+bundle exec sidekiq // for web and dashboard monitoring
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 
 
 Please feel free to use a different markup language if you do not plan to run
